@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="io.css" rel="stylesheet">
+    <title>Codwars</title>
+</head>
+
+<body>
+    <h1>Codewars</h1>
+    <h2>Profile</h2>
+    <a href="https://www.codewars.com/users/beamerboi95">Wyatt Woodard</a>
+    <h2>Solved Katas</h2>
+    <table>
+        <tr>
+            <th>Name</th>
+            <th>Difficulty</th>
+            <th>Completed Languages</th>
+            <th>Date Solved</th>            
+            <th>URL</th>
+            
+        </tr>
+        <tr>
+            <td>Find the smallest integer in the array</td>
+            <td>8 kyu</td>
+            <td>C#</td>
+            <td>unknown</td>
+            <td><a href="https://www.codewars.com/kata/55a2d7ebe362935a210000b2">Link</a></td>
+        </tr>
+        <tr>
+            <td>Will you make it?</td>
+            <td>8 kyu</td>
+            <td>C#</td>
+            <td>unknown</td>
+            <td><a href="https://www.codewars.com/kata/5861d28f124b35723e00005e">Link</a></td>
+        </tr>
+        <tr>
+            <td>Remove first and last character</td>
+            <td>8 kyu</td>
+            <td>C#</td>
+            <td>unknown</td>
+            <td><a href="https://www.codewars.com/kata/56bc28ad5bdaeb48760009b0">Link</a></td>
+        </tr>
+        <tr>
+            <td>Keep hydrated</td>
+            <td>8 kyu</td>
+            <td>C#</td>
+            <td>unknown</td>
+            <td><a href="https://www.codewars.com/kata/582cb0224e56e068d800003c">Link</a></td>
+        </tr>
+        <tr>
+            <td>Grasshopper - if/else syntax debug</td>
+            <td>8 kyu</td>
+            <td>C#</td>
+            <td>unknown</td>
+            <td><a href="https://www.codewars.com/kata/57089707fe2d01529f00024a>Link</a></td>
+        </tr>
+        <tr>
+            <td>Convert boolean values to strings'YES' or 'NO'</td>
+            <td>8 kyu</td>
+            <td>C#</td>
+            <td>unknown</td>
+            <td><a href="https://www.codewars.com/kata/53369039d7ab3ac506000467">Link</a></td>
+        </tr>
+        <tr>
+            <td>Convert a boolean to a string</td>
+            <td>8 kyu</td>
+            <td>C#</td>
+            <td>unknown</td>
+            <td><a href="https://www.codewars.com/kata/551b4501ac0447318f0009cd">Link</a></td>
+        </tr>
+        <tr>
+            <td>Convert a number to a string!</td>
+            <td>8 kyu</td>
+            <td>C#</td>
+            <td>unknown</td>
+            <td><a href="https://www.codewars.com/kata/5265326f5fda8eb1160004c8">Link</a></td>
+        </tr>
+        <tr>
+            <td>You only need one- bigger</td>
+            <td>8 kyu</td>
+            <td>C#</td>
+            <td>unknown</td>
+            <td><a href="https://www.codewars.com/kata/57cc975ed542d3148f00015b">Link</a></td>
+        </tr>
+        <tr>
+            <td>Multiply</td>
+            <td>8 kyu</td>
+            <td>C#</td>
+            <td>unknown</td>
+            <td><a href="https://www.codewars.com/kata/50654ddff44f800200000004">Link</a></td>
+        </tr>
+    </table>
+
+</body>
+
+</html>

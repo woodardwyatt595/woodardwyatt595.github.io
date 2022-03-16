@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(48 49 51);
+    color:white;
+}
+table, tr, td, th{
+    border: rgb(174 49 37) solid 2px;
+    border-collapse: collapse;
+    padding: 2px;
+}
+a:link{
+    color:rgb(174 49 37);
+}
+a:visited{
+    color: rgb(174 49 37);
+}
